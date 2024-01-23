@@ -1,6 +1,8 @@
 # odin-recipes
 TOP: HTML Foundations Project
 
+Visit [this link](https://robinvuy.github.io/odin-recipes/) to see the project!!!
+
 - This is a project to consolidate my HTML knowledge and skills I have acquired during this HTML Foundations course
 - This project involved making an index homepage which contains links to 3 recipe pages: taco, sushi and hot wings
 - Each recipe page contains the title, image, description, ingredients and steps
