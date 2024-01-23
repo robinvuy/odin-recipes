@@ -7,3 +7,4 @@ TOP: HTML Foundations Project
 - This project made use of several basic HTML elements including links, images, headings, paragraphs, unordered lists, ordered lists.
 - This project follows a basic HTML boilerplate structure
 - There is an emphasis on accessibility and readability
+
