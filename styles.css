@@ -1,0 +1,96 @@
+/*home*/
+.home {
+    font-family: Cambria,"Times New Roman", Times, serif;
+    background-color: rgb(77, 192, 77);
+    /* font-weight: bold; */
+}
+
+.home-title {
+    text-align: center;
+    font-size: 40px;
+    /* font-weight: 1000; */
+}
+
+.taco,.sushi,.wing {
+    font-size: 30px;
+    color: black;
+}
+
+/* taco page */
+
+#taco {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(157, 180, 203);
+}
+
+.taco.pic {
+    height:auto;
+    width:350px;
+}
+
+.taco-ingredients {
+    background-color: rgba(108, 179, 241, 0.564);
+    color: yellow;
+}
+
+.taco-steps {
+    background-color: pink;
+    color: purple;
+}
+
+/* sushi page */
+
+#sushi {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(143, 117, 12);
+}
+
+.sushi.pic {
+    height:auto;
+    width:350px;
+}
+
+.sushi-ingredients {
+    background-color: rgba(26, 59, 224, 0.5);
+    color: yellow;
+}
+
+.sushi-steps {
+    background-color: brown;
+    color:beige;
+}
+
+/* Hot Wings Page */
+
+#wing {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: blueviolet;
+}
+
+img.wing.pic {
+    height:auto;
+    width:350px;
+}
+
+.wing-ingredients {
+    background-color: rgb(60, 189, 146);
+    color: yellow;
+}
+
+.wing-steps {
+    background-color: peachpuff;
+    color: darkred;
+}
+
+/* All  */
+
+.taco-title, .sushi-title, .wing-title {
+    text-align: center;
+    font-weight: 700;
+}
+
+.taco-description, .sushi-description, .wing-description {
+    background-color: beige;
+    color:rgb(77, 192, 77)
+}
+
